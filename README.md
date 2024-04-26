@@ -22,4 +22,4 @@ Compressed successfully
 $: g++ decode.cpp huffman.cpp -o root
 $: ./root compressFile.huf outputFile.huf
 
-Decompressed successfully
+Decompressed successfully hi
